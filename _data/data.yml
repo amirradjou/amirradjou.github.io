@@ -7,78 +7,56 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Amirreza Radjou
+    tagline: Computer Science Student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: amirreza.radjou@gmail.con
+    phone: +98 939 044 3323
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: amirradjou
     xing: alandoe
-    github: sharu725
+    github: amirradjou
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@mooolcool'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Persian
+        level: Professional
 
       - idiom: French
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Chess
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
 
 career-profile:
-    title: Career Profile
+    title: ABOUT ME
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      B.Sc student at the Amirkabir University of Technology interested in Machine Learning and Deep Learning models.
+      Interested in working on projects related to analyzing human behaviors using learning models.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+ 
+    - degree: BSc in Computer Science
+      university: Amirkabir University
+      time: 2019 - presesnt
+      details: 
+      
+    - degree: Diploma of Mathematics and Physics
+      university: National Organization for Development of Exceptional Talents(Shahid Beheshti)
+      time: 2011 - 2018
+      details:
+      
+      
 experiences:
     - role: Lead Developer
       time: 2015 - Present
