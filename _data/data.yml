@@ -24,7 +24,7 @@ sidebar:
       - idiom: Persian
         level: Professional
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
     interests:
@@ -39,9 +39,9 @@ career-profile:
       Interested in working on projects related to analyzing human behaviors using learning models.
 education:
  
-    - degree: BSc in Computer Science
+    - degree: B.Sc in Computer Science
       university: Amirkabir University
-      time: 2019 - presesnt
+      time: 2018 - presesnt
       details: 
       
     - degree: Diploma of Mathematics and Physics
